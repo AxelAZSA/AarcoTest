@@ -1,0 +1,17 @@
+C:\Users\EAS Consulting\source\repos\AarcoExamen\AarcoExamen.Infrastructure\bin\Debug\net6.0\AarcoExamen.Infrastructure.deps.json
+C:\Users\EAS Consulting\source\repos\AarcoExamen\AarcoExamen.Infrastructure\bin\Debug\net6.0\AarcoExamen.Infrastructure.runtimeconfig.json
+C:\Users\EAS Consulting\source\repos\AarcoExamen\AarcoExamen.Infrastructure\bin\Debug\net6.0\AarcoExamen.Infrastructure.dll
+C:\Users\EAS Consulting\source\repos\AarcoExamen\AarcoExamen.Infrastructure\bin\Debug\net6.0\AarcoExamen.Infrastructure.pdb
+C:\Users\EAS Consulting\source\repos\AarcoExamen\AarcoExamen.Infrastructure\obj\Debug\net6.0\AarcoExamen.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\EAS Consulting\source\repos\AarcoExamen\AarcoExamen.Infrastructure\obj\Debug\net6.0\AarcoExamen.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EAS Consulting\source\repos\AarcoExamen\AarcoExamen.Infrastructure\obj\Debug\net6.0\AarcoExamen.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\EAS Consulting\source\repos\AarcoExamen\AarcoExamen.Infrastructure\obj\Debug\net6.0\AarcoExamen.Infrastructure.AssemblyInfo.cs
+C:\Users\EAS Consulting\source\repos\AarcoExamen\AarcoExamen.Infrastructure\obj\Debug\net6.0\AarcoExamen.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\EAS Consulting\source\repos\AarcoExamen\AarcoExamen.Infrastructure\obj\Debug\net6.0\AarcoExamen.Infrastructure.dll
+C:\Users\EAS Consulting\source\repos\AarcoExamen\AarcoExamen.Infrastructure\obj\Debug\net6.0\refint\AarcoExamen.Infrastructure.dll
+C:\Users\EAS Consulting\source\repos\AarcoExamen\AarcoExamen.Infrastructure\obj\Debug\net6.0\AarcoExamen.Infrastructure.pdb
+C:\Users\EAS Consulting\source\repos\AarcoExamen\AarcoExamen.Infrastructure\obj\Debug\net6.0\AarcoExamen.Infrastructure.genruntimeconfig.cache
+C:\Users\EAS Consulting\source\repos\AarcoExamen\AarcoExamen.Infrastructure\obj\Debug\net6.0\ref\AarcoExamen.Infrastructure.dll
+C:\Users\EAS Consulting\source\repos\AarcoExamen\AarcoExamen.Infrastructure\bin\Debug\net6.0\AarcoExamen.Domain.dll
+C:\Users\EAS Consulting\source\repos\AarcoExamen\AarcoExamen.Infrastructure\bin\Debug\net6.0\AarcoExamen.Domain.pdb
+C:\Users\EAS Consulting\source\repos\AarcoExamen\AarcoExamen.Infrastructure\obj\Debug\net6.0\AarcoExa.EF997D6E.Up2Date

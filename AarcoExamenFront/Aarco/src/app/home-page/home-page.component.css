@@ -1,0 +1,215 @@
+.alias{
+    position: absolute;
+    width: 240px;
+    height: 25px;
+    left: 89px;
+    top: 480px;
+    
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 23px;
+    /* or 121% */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #F14722;
+}
+.empSeg{
+    position: absolute;
+width: 216px;
+height: 25px;
+left: 101px;
+top: 509px;
+
+font-family: 'Jost';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 23px;
+/* or 128% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #193A6A;
+
+}
+.nombreApellido{
+    position: absolute;
+width: 240px;
+height: 25px;
+left: 89px;
+top: 229px;
+
+font-family: 'Jost';
+font-style: normal;
+font-weight: 600;
+font-size: 23px;
+line-height: 23px;
+/* or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #193A6A;
+
+}
+ .espacioDe{
+    /* Espacio de: */
+
+position: absolute;
+width: 118px;
+height: 25px;
+left: 150px;
+top: 194px;
+
+font-family: 'Jost';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 23px;
+/* or 153% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #153996;
+
+
+ }
+.container{
+    
+position: relative;
+width: 418px;
+height: 1244px;
+overflow-y: scroll;
+
+background: #FFFFFF;
+
+}
+
+.rectangle42{
+    position: absolute;
+width: 418px;
+height: 2px;
+left: 0px;
+top: 174px;
+
+background: #FF6B00;
+}
+
+.aarcoLogo{
+position: absolute;
+width: 225px;
+height: 125px;
+left: 97px;
+top: 34px;
+background: url(../assets/image.png);
+}
+.perfil{
+    box-sizing: border-box;
+position: absolute;
+width: 183px;
+height: 183px;
+left: 116px;
+top: 273px;
+border: 2px solid #193A6A;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+background: url(../assets/perfil.png);
+}
+
+.openLinks {
+    position: absolute;
+    left: 101px;
+    top: 544px;
+    
+    /* Tamaño del botón */
+    width: 217px;
+    height: 37px;
+  
+    /* Estilo del botón */
+    background: #FFFFFF;
+    border: 2px solid #FFA629;
+    box-shadow: 0px 2px 0px #FFA629;
+    border-radius: 10px;
+  
+    /* Centrado del texto */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    /* Texto */
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    color: #333333;
+  
+    /* Elimina márgenes y paddings extras */
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+
+
+
+/* Contenedor principal */
+.section {
+    width: 418px;
+    margin: 0 auto;
+    font-family: 'Jost', sans-serif;
+    text-align: center;
+  }
+  
+  /* Secciones de contenido */
+  .contentDiv {
+    background: #FFF1DD;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+  }
+  
+  .block {
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+  }
+  
+  /* Fondo naranja */
+  .labelOrange {
+    background: #FFA629;
+    color: #FFFFFF;
+    padding: 5px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    margin-bottom: 10px;
+    display: inline-block;
+    border-radius: 3px;
+  }
+  
+  /* Fondo azul */
+  .blue {
+    background: #193A6A;
+    color: #FFFFFF;
+  }
+  
+  /* Títulos */
+  .title {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    margin-bottom: 10px;
+  }
+  
+  /* Contenido */
+  .contenidoSecc {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    color: #153996;
+  }
+  

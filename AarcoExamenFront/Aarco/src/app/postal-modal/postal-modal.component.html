@@ -1,0 +1,42 @@
+<div class="modal-header">
+    <h5 class="modal-title">Consultar Código Postal</h5>
+    <button type="button" class="btn-close" aria-label="Close" (click)="closeModal()"></button>
+  </div>
+  <div class="modal-body">
+    <form [formGroup]="postalForm">
+      <div class="mb-3">
+        <label for="codigoPostal" class="form-label">Código Postal</label>
+        <input
+          type="text"
+          id="codigoPostal"
+          class="form-control"
+          formControlName="codigoPostal"
+          (input)="onCodigoPostalChange()"
+          placeholder="Ingrese el Código Postal"
+        />
+        <div *ngIf="postalForm.value.codigoPostal.errors?.required && postalForm.value.codigoPostal.touched" class="text-danger">
+          El código postal es requerido.
+        </div>
+        <div *ngIf="postalForm.value.codigoPostal.errors?.pattern && postalForm.value.codigoPostal.touched" class="text-danger">
+          El código postal debe ser numérico.
+        </div>
+      </div>
+      <div class="mb-3">
+        <label for="estado" class="form-label">Estado</label>
+        <input type="text" id="estado" class="form-control" formControlName="estado" readonly />
+      </div>
+      <div class="mb-3">
+        <label for="municipio" class="form-label">Municipio</label>
+        <input type="text" id="municipio" class="form-control" formControlName="municipio" readonly />
+      </div>
+      <div class="mb-3">
+        <label for="colonia" class="form-label">Colonia</label>
+        <input type="text" id="colonia" class="form-control" formControlName="colonia" />
+      </div>
+    </form>
+  </div>
+  <div class="modal-footer">
+    <button type="button" class="btn btn-secondary" (click)="closeModal()">Cerrar</button>
+    <button type="button" class="btn btn-primary" [disabled]="postalForm.invalid">Guardar</button>
+  </div>
+  

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/s6d+1NX/MKKxzZbfHLfc3X+6kY5+dgcPhB3j/TFTvk=",
+  "Source": "AarcoExamen.Application",
+  "BasePath": "_content/AarcoExamen.Application",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

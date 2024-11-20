@@ -1,0 +1,86 @@
+<div class="container ">
+    <!-- Header con logo -->
+    <header>
+      <img alt="Happy Car Logo" class="aarcoLogo"/>
+    </header>
+    <div class="rectangle42"></div>
+    <!-- Información del usuario -->
+    <section class="fillContainer">
+        <div> 
+            <h6 class="espacioDe">Espacio De:</h6>
+        <h1 class="nombreApellido">{{ userName }}</h1>
+      <img alt="User Photo" class="perfil"/>
+        <p class="alias">{{ userAlias }}</p>        
+      <p class="empSeg">Emprendedor en seguros</p>
+    </div>
+      <button class="openLinks">Cotiza el Seguro de tu Auto</button>
+    </section>
+ 
+    <!-- Sección principal -->
+    <div class="section">
+        <div class="labelOrange">
+          <h3 class="title">Orientación</h3>
+          <p class="contentDiv">Te ayudaré a encontrar en la Plataforma digital Happy Car cuál es el seguro de auto y cobertura que se adapta mejor a tus posibilidades y necesidades.</p>
+        </div>
+        <div class="block blue">
+          <h3 class="title">Cotización, Comparación y Emisión en Happy Car</h3>
+          <p class="contentDiv">Te acompañaré en tu proceso de cotización, comparación y emisión a fin de que adquieras tu póliza con total confianza.</p>
+        </div>
+        <div class="labelOrange">
+          <h3 class="title">Información</h3>
+          <p class="contentDiv">Te proporcionaré información sobre las opciones de pago y los recursos que te ofrece la aseguradora que elijas.</p>
+        </div>
+        <div class="block blue">
+          <h3 class="title">Contacto</h3>
+          <p class="contentDiv">Seré tu contacto con nuestra Oficina Tecnológica para que recibas apoyo y respuesta a tus requerimientos.</p>
+        </div>
+      </div>
+      
+  
+    <!-- Información de contacto -->
+    <section class="contact">
+        <div>
+      <button class="whatsapp">
+        <img alt="WhatsApp" />
+        55 5555 5555
+      </button>
+    </div>
+    </section>
+  
+    <!-- Footer -->
+    <footer class="footer">
+        <div>
+      <p>Aviso de privacidad</p>
+      <p>Emprende con Seguros</p>
+     
+      <button class="btn btn-primary" (click)="openModal()">
+
+        <p>Col. Xoco, C.P. 03330</p></button>
+
+      <app-postal-modal *ngIf="isModalOpen" (close)="closeModal()"></app-postal-modal>
+    </div>
+    </footer>
+
+  </div>
+  
+
+  <!--<div class="landing-page">
+  <div class="line line-1"></div>
+  <div class="line line-2"></div>
+  <div class="line line-3"></div>
+  <div class="button">Cotizar</div>
+
+  <div class="rectangle rectangle-49">
+    </div>
+    <div class="rectangle rectangle-45">Orientación</div>
+  <div class="rectangle rectangle-50"></div>
+
+  <div class="rectangle rectangle-46">Cotización, Comparación y Emisión en Happy Car</div>
+  <div class="rectangle rectangle-47">Información</div>
+  <div class="rectangle rectangle-48">Contacto</div>
+
+<p class="text privacy-notice">Aviso de Privacidad</p>
+<p class="text entrepreneurs">Emprendedores en Seguros</p>
+<p class="text address">Mayorazgo No. 37 Col. Xoco. CdMx. C.P. 03330</p>
+</div>
+-->

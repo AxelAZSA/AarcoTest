@@ -1,0 +1,11 @@
+C:\Users\EAS Consulting\source\repos\AarcoExamen\AarcoExam.Domain\bin\Debug\net6.0\AarcoExamen.Domain.deps.json
+C:\Users\EAS Consulting\source\repos\AarcoExamen\AarcoExam.Domain\bin\Debug\net6.0\AarcoExamen.Domain.dll
+C:\Users\EAS Consulting\source\repos\AarcoExamen\AarcoExam.Domain\bin\Debug\net6.0\AarcoExamen.Domain.pdb
+C:\Users\EAS Consulting\source\repos\AarcoExamen\AarcoExam.Domain\obj\Debug\net6.0\AarcoExamen.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EAS Consulting\source\repos\AarcoExamen\AarcoExam.Domain\obj\Debug\net6.0\AarcoExamen.Domain.AssemblyInfoInputs.cache
+C:\Users\EAS Consulting\source\repos\AarcoExamen\AarcoExam.Domain\obj\Debug\net6.0\AarcoExamen.Domain.AssemblyInfo.cs
+C:\Users\EAS Consulting\source\repos\AarcoExamen\AarcoExam.Domain\obj\Debug\net6.0\AarcoExamen.Domain.csproj.CoreCompileInputs.cache
+C:\Users\EAS Consulting\source\repos\AarcoExamen\AarcoExam.Domain\obj\Debug\net6.0\AarcoExamen.Domain.dll
+C:\Users\EAS Consulting\source\repos\AarcoExamen\AarcoExam.Domain\obj\Debug\net6.0\refint\AarcoExamen.Domain.dll
+C:\Users\EAS Consulting\source\repos\AarcoExamen\AarcoExam.Domain\obj\Debug\net6.0\AarcoExamen.Domain.pdb
+C:\Users\EAS Consulting\source\repos\AarcoExamen\AarcoExam.Domain\obj\Debug\net6.0\ref\AarcoExamen.Domain.dll

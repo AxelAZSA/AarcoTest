@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EAS Consulting\\source\\repos\\AarcoExamen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBE24E4-9F58-4F4B-9F03-A4B547C85B7B}|AarcoExamen.Infrastructure\\AarcoExamen.Infrastructure.csproj|c:\\users\\eas consulting\\source\\repos\\aarcoexamen\\aarcoexamen.infrastructure\\repository\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FBE24E4-9F58-4F4B-9F03-A4B547C85B7B}|AarcoExamen.Infrastructure\\AarcoExamen.Infrastructure.csproj|solutionrelative:aarcoexamen.infrastructure\\repository\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55DF357-958B-402E-BAEB-40F88297631F}|AarcoExam.Domain\\AarcoExamen.Domain.csproj|c:\\users\\eas consulting\\source\\repos\\aarcoexamen\\aarcoexam.domain\\dtos\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55DF357-958B-402E-BAEB-40F88297631F}|AarcoExam.Domain\\AarcoExamen.Domain.csproj|solutionrelative:aarcoexam.domain\\dtos\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55DF357-958B-402E-BAEB-40F88297631F}|AarcoExam.Domain\\AarcoExamen.Domain.csproj|c:\\users\\eas consulting\\source\\repos\\aarcoexamen\\aarcoexam.domain\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55DF357-958B-402E-BAEB-40F88297631F}|AarcoExam.Domain\\AarcoExamen.Domain.csproj|solutionrelative:aarcoexam.domain\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55DF357-958B-402E-BAEB-40F88297631F}|AarcoExam.Domain\\AarcoExamen.Domain.csproj|c:\\users\\eas consulting\\source\\repos\\aarcoexamen\\aarcoexam.domain\\entities\\modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55DF357-958B-402E-BAEB-40F88297631F}|AarcoExam.Domain\\AarcoExamen.Domain.csproj|solutionrelative:aarcoexam.domain\\entities\\modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55DF357-958B-402E-BAEB-40F88297631F}|AarcoExam.Domain\\AarcoExamen.Domain.csproj|c:\\users\\eas consulting\\source\\repos\\aarcoexamen\\aarcoexam.domain\\entities\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55DF357-958B-402E-BAEB-40F88297631F}|AarcoExam.Domain\\AarcoExamen.Domain.csproj|solutionrelative:aarcoexam.domain\\entities\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AEA6FB-5D07-4621-9F91-168BCC682B9E}|AarcoExamen\\AarcoExamen.Application.csproj|c:\\users\\eas consulting\\source\\repos\\aarcoexamen\\aarcoexamen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AEA6FB-5D07-4621-9F91-168BCC682B9E}|AarcoExamen\\AarcoExamen.Application.csproj|solutionrelative:aarcoexamen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBE24E4-9F58-4F4B-9F03-A4B547C85B7B}|AarcoExamen.Infrastructure\\AarcoExamen.Infrastructure.csproj|c:\\users\\eas consulting\\source\\repos\\aarcoexamen\\aarcoexamen.infrastructure\\data\\cardatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FBE24E4-9F58-4F4B-9F03-A4B547C85B7B}|AarcoExamen.Infrastructure\\AarcoExamen.Infrastructure.csproj|solutionrelative:aarcoexamen.infrastructure\\data\\cardatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55DF357-958B-402E-BAEB-40F88297631F}|AarcoExam.Domain\\AarcoExamen.Domain.csproj|c:\\users\\eas consulting\\source\\repos\\aarcoexamen\\aarcoexam.domain\\entities\\descripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55DF357-958B-402E-BAEB-40F88297631F}|AarcoExam.Domain\\AarcoExamen.Domain.csproj|solutionrelative:aarcoexam.domain\\entities\\descripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AEA6FB-5D07-4621-9F91-168BCC682B9E}|AarcoExamen\\AarcoExamen.Application.csproj|c:\\users\\eas consulting\\source\\repos\\aarcoexamen\\aarcoexamen\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AEA6FB-5D07-4621-9F91-168BCC682B9E}|AarcoExamen\\AarcoExamen.Application.csproj|solutionrelative:aarcoexamen\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 231,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EAS Consulting\\source\\repos\\AarcoExamen\\AarcoExam.Domain\\Interfaces\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "AarcoExam.Domain\\Interfaces\\ICarRepository.cs",
+              "ToolTip": "C:\\Users\\EAS Consulting\\source\\repos\\AarcoExamen\\AarcoExam.Domain\\Interfaces\\ICarRepository.cs",
+              "RelativeToolTip": "AarcoExam.Domain\\Interfaces\\ICarRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:47:12.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\EAS Consulting\\source\\repos\\AarcoExamen\\AarcoExam.Domain\\DTOs\\Dashboard.cs",
+              "RelativeDocumentMoniker": "AarcoExam.Domain\\DTOs\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\EAS Consulting\\source\\repos\\AarcoExamen\\AarcoExam.Domain\\DTOs\\Dashboard.cs",
+              "RelativeToolTip": "AarcoExam.Domain\\DTOs\\Dashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:45:56.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EAS Consulting\\source\\repos\\AarcoExamen\\AarcoExamen.Infrastructure\\Repository\\CarRepository.cs",
+              "RelativeDocumentMoniker": "AarcoExamen.Infrastructure\\Repository\\CarRepository.cs",
+              "ToolTip": "C:\\Users\\EAS Consulting\\source\\repos\\AarcoExamen\\AarcoExamen.Infrastructure\\Repository\\CarRepository.cs",
+              "RelativeToolTip": "AarcoExamen.Infrastructure\\Repository\\CarRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:45:28.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Modelo.cs",
+              "DocumentMoniker": "C:\\Users\\EAS Consulting\\source\\repos\\AarcoExamen\\AarcoExam.Domain\\Entities\\Modelo.cs",
+              "RelativeDocumentMoniker": "AarcoExam.Domain\\Entities\\Modelo.cs",
+              "ToolTip": "C:\\Users\\EAS Consulting\\source\\repos\\AarcoExamen\\AarcoExam.Domain\\Entities\\Modelo.cs",
+              "RelativeToolTip": "AarcoExam.Domain\\Entities\\Modelo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:45:20.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Users\\EAS Consulting\\source\\repos\\AarcoExamen\\AarcoExam.Domain\\Entities\\Marca.cs",
+              "RelativeDocumentMoniker": "AarcoExam.Domain\\Entities\\Marca.cs",
+              "ToolTip": "C:\\Users\\EAS Consulting\\source\\repos\\AarcoExamen\\AarcoExam.Domain\\Entities\\Marca.cs",
+              "RelativeToolTip": "AarcoExam.Domain\\Entities\\Marca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:45:17.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Descripcion.cs",
+              "DocumentMoniker": "C:\\Users\\EAS Consulting\\source\\repos\\AarcoExamen\\AarcoExam.Domain\\Entities\\Descripcion.cs",
+              "RelativeDocumentMoniker": "AarcoExam.Domain\\Entities\\Descripcion.cs",
+              "ToolTip": "C:\\Users\\EAS Consulting\\source\\repos\\AarcoExamen\\AarcoExam.Domain\\Entities\\Descripcion.cs",
+              "RelativeToolTip": "AarcoExam.Domain\\Entities\\Descripcion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:05:19.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarDatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\EAS Consulting\\source\\repos\\AarcoExamen\\AarcoExamen.Infrastructure\\Data\\CarDatabaseContext.cs",
+              "RelativeDocumentMoniker": "AarcoExamen.Infrastructure\\Data\\CarDatabaseContext.cs",
+              "ToolTip": "C:\\Users\\EAS Consulting\\source\\repos\\AarcoExamen\\AarcoExamen.Infrastructure\\Data\\CarDatabaseContext.cs",
+              "RelativeToolTip": "AarcoExamen.Infrastructure\\Data\\CarDatabaseContext.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAqwCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:04:15.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EAS Consulting\\source\\repos\\AarcoExamen\\AarcoExamen\\Program.cs",
+              "RelativeDocumentMoniker": "AarcoExamen\\Program.cs",
+              "ToolTip": "C:\\Users\\EAS Consulting\\source\\repos\\AarcoExamen\\AarcoExamen\\Program.cs",
+              "RelativeToolTip": "AarcoExamen\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:02:58.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\EAS Consulting\\source\\repos\\AarcoExamen\\AarcoExamen\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "AarcoExamen\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\EAS Consulting\\source\\repos\\AarcoExamen\\AarcoExamen\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "AarcoExamen\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:57:52.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 10,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
